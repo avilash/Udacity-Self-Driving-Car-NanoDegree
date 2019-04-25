@@ -2,3 +2,6 @@
 /**/__pycache__/
 
 *.pyc
+
+CarND-Traffic-Sign-Classifier-Project/data
+CarND-Traffic-Sign-Classifier-Project/models
